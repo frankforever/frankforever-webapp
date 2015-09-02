@@ -1,2 +1,2 @@
 # frankforever-webapp
-readme.
+try to learn git and webapp.
